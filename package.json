@@ -1,0 +1,32 @@
+{
+  "name": "robust-determinant-2",
+  "version": "0.0.0",
+  "description": "Exactly computes the determinant of a 2x2 matrix as a nonoverlapping increasing series",
+  "main": "det2.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "robust-sum": "~0.0.0",
+    "tape": "~1.1.0",
+    "two-product": "~0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/robust-determinant-2.git"
+  },
+  "keywords": [
+    "determinant",
+    "2x2",
+    "exact"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/robust-determinant-2/issues"
+  }
+}
