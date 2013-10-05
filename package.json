@@ -1,6 +1,6 @@
 {
   "name": "robust-determinant-2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Exactly computes the determinant of a 2x2 matrix as a nonoverlapping increasing series",
   "main": "det2.js",
   "directories": {
